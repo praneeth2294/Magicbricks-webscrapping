@@ -1,0 +1,511 @@
+Price,Bathrooms,Furniture,Tenant Preference,Floor,Flat,Location,Area,Total Floors
+70000,3.0,Semi-Furnished,Bachelors,19,3,Hyderabad,Kokapet,35.0
+55000,3.0,Furnished,Bachelors/Family,18,3,Hyderabad,Nalagandla,20.0
+16000,1.0,Semi-Furnished,Bachelors,2,1,Hyderabad,Kondapur,5.0
+29000,3.0,Semi-Furnished,Bachelors,20,3,Hyderabad,Masjid Banda,20.0
+90000,3.0,Semi-Furnished,Family,9,3,Hyderabad,Gachibowli,24.0
+75000,3.0,Semi-Furnished,Bachelors,18,3,Hyderabad,Kokapet,32.0
+75000,4.0,Furnished,Family,4,3,Hyderabad,Telecom Nagar Gachibowli,14.0
+35000,3.0,Semi-Furnished,Family,0,3,Hyderabad,Bachupally Hyderabad,31.0
+84000,3.0,Furnished,Bachelors,27,3,Hyderabad,Gachibowli,31.0
+65000,3.0,Unfurnished,Bachelors/Family,7,3,Hyderabad,Kondapur,18.0
+29000,4.0,Semi-Furnished,Family,35,3,Hyderabad,Hitech City,40.0
+18000,2.0,Semi-Furnished,Family,3,2,Hyderabad,Anandbagh,4.0
+21000,3.0,Semi-Furnished,Bachelors/Family,0,2,Hyderabad,Balram Nagar Hyderabad,24.0
+80000,2.0,Furnished,Bachelors/Family,5,3,Hyderabad,Kondapur,24.0
+60000,3.0,Unfurnished,Family,13,3,Hyderabad,Kokapet,35.0
+59900,2.0,Furnished,Family,8,3,Hyderabad,Narsingi,12.0
+10000,1.0,Unfurnished,Family,4,2,Hyderabad,Gajularamaram,5.0
+75000,3.0,Unfurnished,Bachelors,0,3,Hyderabad,Chanda Nagar Hyderabad,34.0
+85000,3.0,Furnished,Family,17,3,Hyderabad,Gachibowli,34.0
+29000,3.0,Semi-Furnished,Bachelors/Family,2,3,Hyderabad,Kondapur,19.0
+29000,3.0,Semi-Furnished,Bachelors,9,3,Hyderabad,Gachibowli,18.0
+55000,2.0,Semi-Furnished,Family,13,3,Hyderabad,Power Welfare Society,30.0
+33000,2.0,Unfurnished,Bachelors,0,3,Hyderabad,Bandlaguda Jagir,4.0
+65000,3.0,Unfurnished,Bachelors,0,3,Hyderabad,nn infrastructure leke frent villa Hyderabad,4.0
+13900,2.0,Unfurnished,Bachelors,3,2,Hyderabad,Kompally,4.0
+55000,4.0,Semi-Furnished,Bachelors/Family,5,3,Hyderabad,Serilingampalle M,8.0
+25000,3.0,Semi-Furnished,Family,1,3,Hyderabad,Sainathpuram Hyderabad,3.0
+65000,3.0,Semi-Furnished,Bachelors/Family,5,3,Hyderabad,Puppalguda,15.0
+60000,3.0,Furnished,Bachelors,4,3,Hyderabad,Kokapet,12.0
+80000,4.0,Semi-Furnished,Family,0,3,Hyderabad,Tellapur,14.0
+58000,2.0,Semi-Furnished,Bachelors/Family,10,3,Bangalore,Hebbal,14.0
+100000,3.0,Semi-Furnished,Bachelors/Family,12,3,Bangalore,Bannerghatta Main Road,14.0
+55000,3.0,Unfurnished,Bachelors,3,3,Bangalore,Hebbal,16.0
+75000,3.0,Semi-Furnished,Bachelors/Family,8,3,Bangalore,Amarjyothi Colony,14.0
+35000,1.0,Furnished,Bachelors/Family,1,1,Bangalore,Sector 2 HSR Layout Bangalore,4.0
+75000,2.0,Unfurnished,Bachelors,1,3,Bangalore,Richards Town,5.0
+29000,3.0,Semi-Furnished,Bachelors/Family,1,3,Bangalore,Vittal Mallya Road,5.0
+34500,3.0,Semi-Furnished,Bachelors/Family,2,3,Bangalore,Hebbal Kempapura,4.0
+29000,4.0,Semi-Furnished,Bachelors,15,3,Bangalore,Hebbal,21.0
+29000,3.0,Semi-Furnished,Bachelors/Family,10,3,Bangalore,Rajajinagar,37.0
+55000,3.0,Semi-Furnished,Bachelors/Family,8,3,Bangalore,Kanakapura Road,32.0
+75000,3.0,Unfurnished,Bachelors,8,3,Bangalore,Hebbal,34.0
+61000,2.0,Semi-Furnished,Bachelors/Family,4,3,Bangalore,Carmelaram,16.0
+110000,3.0,Furnished,Bachelors,3,3,Bangalore,Vittal Mallya Road,7.0
+55000,3.0,Semi-Furnished,Bachelors,25,3,Bangalore,Kanakapura Road,32.0
+29000,3.0,Furnished,Bachelors/Family,4,3,Bangalore,Defence Colony Indiranagar,5.0
+55000,2.0,Furnished,Bachelors/Family,12,2,Bangalore,Kaikondrahalli,15.0
+80000,3.0,Furnished,Bachelors/Family,0,3,Bangalore,Kannamangala Bangalore,3.0
+75000,3.0,Semi-Furnished,Bachelors,0,3,Bangalore,Kaikondrahalli,3.0
+50000,2.0,Furnished,Bachelors/Family,1,2,Bangalore,Sarjapura,3.0
+61000,3.0,Semi-Furnished,Bachelors/Family,4,3,Bangalore,Hebbal,18.0
+29000,3.0,Semi-Furnished,Bachelors/Family,7,3,Bangalore,Whitefield,19.0
+35000,2.0,Semi-Furnished,Bachelors,11,2,Bangalore,Kogilu,14.0
+41000,2.0,Semi-Furnished,Family,5,2,Bangalore,Panathur,13.0
+29000,2.0,Furnished,Family,28,1,Bangalore,Ganga Nagar Layout,30.0
+55000,3.0,Semi-Furnished,Bachelors/Family,7,3,Bangalore,Naidu Layout Electronic City,10.0
+79000,4.0,Semi-Furnished,Bachelors/Family,3,3,Bangalore,Hebbal,34.0
+65000,3.0,Semi-Furnished,Bachelors/Family,13,3,Bangalore,Whitefield,30.0
+40000,3.0,Semi-Furnished,Bachelors,10,3,Bangalore,Chambenahalli,19.0
+50000,3.0,Semi-Furnished,Family,23,3,Bangalore,Varthur,23.0
+35000,3.0,Unfurnished,Bachelors,2,3,Delhi,Saket,4.0
+50000,3.0,Unfurnished,Bachelors/Family,5,3,Delhi,IFS Apartments,7.0
+35000,3.0,Unfurnished,Bachelors,4,1,Delhi,Kishangarh,5.0
+45000,2.0,Semi-Furnished,Bachelors/Family,1,2,Delhi,DLF Capital Greens 1 and 2,30.0
+100000,3.0,Unfurnished,Bachelors,1,3,Delhi,Safdarjung Enclave,4.0
+60000,3.0,Unfurnished,Family,4,3,Delhi,Punjabi Bagh,4.0
+46500,2.0,Semi-Furnished,Bachelors,18,3,Delhi,Moti Nagar,26.0
+40000,3.0,Semi-Furnished,Bachelors/Family,7,3,Delhi,Janaksar Apartment,10.0
+29000,4.0,Furnished,Bachelors/Family,0,3,Delhi,Defence Colony,30.0
+100000,1.0,Semi-Furnished,Bachelors/Family,0,1,Delhi,Greater Kailash 1,30.0
+55000,3.0,Semi-Furnished,Bachelors/Family,26,3,Delhi,DLF Capital Greens 1 and 2,30.0
+27500,2.0,Furnished,Bachelors,3,1,Delhi,DDA Kaveri Apartment,4.0
+38000,2.0,Semi-Furnished,Bachelors/Family,6,3,Delhi,Aero View Heights,10.0
+80000,3.0,Semi-Furnished,Bachelors,2,3,Delhi,Greater Kailash 1,4.0
+50000,3.0,Semi-Furnished,Bachelors,1,3,Delhi,DDA Flats Sarita Vihar,4.0
+55000,3.0,Semi-Furnished,Bachelors/Family,2,3,Delhi,Punjabi Bagh,4.0
+100000,3.0,Unfurnished,Bachelors/Family,3,3,Delhi,Greater Kailash 1,4.0
+100000,3.0,Unfurnished,Bachelors/Family,2,3,Delhi,Green Park,4.0
+30000,2.0,Semi-Furnished,Bachelors/Family,1,3,Delhi,Vasundhara Enclave,3.0
+60000,2.0,Unfurnished,Bachelors/Family,2,3,Delhi,DDA Flats Vasant Kunj,4.0
+26000,2.0,Semi-Furnished,Bachelors,3,2,Delhi,DDA Flats Sarita Vihar,4.0
+55000,3.0,Semi-Furnished,Bachelors,2,3,Delhi,Sector 8 Dwarka,4.0
+41999,2.0,Semi-Furnished,Bachelors/Family,1,3,Delhi,DDA Flats Munirka,3.0
+39000,2.0,Unfurnished,Bachelors/Family,1,2,Delhi,DDA Flats Munirka,3.0
+40000,2.0,Semi-Furnished,Bachelors/Family,1,3,Delhi,DDA Flats Sarita Vihar,3.0
+35000,2.0,Semi-Furnished,Bachelors,2,2,Delhi,DDA Mig Flats Sarita Vihar,4.0
+25000,2.0,Unfurnished,Bachelors,1,2,Delhi,DDA Sudarshan Apartment,3.0
+23700,2.0,Semi-Furnished,Bachelors,1,3,Delhi,Chattarpur,4.0
+29000,4.0,Semi-Furnished,Bachelors,4,3,Delhi,Vasant Vihar Builder Floor,4.0
+28000,1.0,Semi-Furnished,Bachelors,3,1,Delhi,RWA Flats,3.0
+29000,2.0,Unfurnished,Family,0,3,Mumbai,Oberoi Springs,75.0
+29000,3.0,Unfurnished,Bachelors/Family,23,3,Mumbai,Lodha Marquise,75.0
+94000,2.0,Semi-Furnished,Family,13,3,Mumbai,Gundecha Symphony,17.0
+68000,2.0,Unfurnished,Bachelors/Family,19,2,Mumbai,Piramal Revanta,40.0
+50000,2.0,Semi-Furnished,Bachelors/Family,11,1,Mumbai,Kanakia Rainforest,16.0
+72000,3.0,Semi-Furnished,Family,3,3,Mumbai,Rasik Apartment,8.0
+77000,2.0,Unfurnished,Bachelors,23,2,Mumbai,Imperial Heights,42.0
+29000,3.0,Semi-Furnished,Family,12,3,Mumbai,Vile Parle West,16.0
+59000,2.0,Unfurnished,Family,14,2,Mumbai,Evershine Embassy,19.0
+29000,4.0,Unfurnished,Family,35,3,Mumbai,Lodha Kiara,67.0
+29000,4.0,Semi-Furnished,Family,0,3,Mumbai,Lodha Fiorenza,32.0
+29000,3.0,Furnished,Family,24,3,Mumbai,Hiranandani Verona Co op Housing Society Ltd,32.0
+29000,3.0,Unfurnished,Bachelors,3,3,Mumbai,Juhu,8.0
+88000,2.0,Furnished,Bachelors/Family,7,2,Mumbai,Rustomjee Ozone,36.0
+84900,2.0,Semi-Furnished,Bachelors/Family,15,2,Mumbai,L&T Emerald Isle,26.0
+83000,3.0,Unfurnished,Bachelors/Family,39,3,Mumbai,Runwal Bliss,50.0
+50000,1.0,Semi-Furnished,Family,4,1,Mumbai,Dosti Acres,7.0
+75000,3.0,Unfurnished,Bachelors,9,3,Mumbai,Sadguru Poonam Heights,22.0
+110000,3.0,Unfurnished,Bachelors/Family,10,3,Mumbai,Godrej Urban Park,22.0
+62000,2.0,Semi-Furnished,Bachelors/Family,4,3,Mumbai,Wadhwa Atmosphere,45.0
+29000,3.0,Semi-Furnished,Bachelors/Family,40,3,Mumbai,Oberoi Sky City,60.0
+29000,2.0,Semi-Furnished,Family,5,3,Mumbai,Kabra Primera,17.0
+29000,3.0,Furnished,Bachelors/Family,25,3,Mumbai,Lodha World View,76.0
+29000,3.0,Semi-Furnished,Family,35,3,Mumbai,Oberoi Sky City,61.0
+29000,3.0,Semi-Furnished,Bachelors/Family,19,3,Mumbai,Vasant Oasis,22.0
+65000,3.0,Unfurnished,Bachelors/Family,6,3,Mumbai,Runwal Heights,18.0
+29000,3.0,Furnished,Bachelors,9,3,Mumbai,Adani Western Heights,29.0
+29000,2.0,Semi-Furnished,Bachelors/Family,70,2,Mumbai,Lodha Allura,77.0
+50000,2.0,Unfurnished,Bachelors,0,2,Mumbai,Romell Serene,35.0
+29000,2.0,Furnished,Family,30,3,Mumbai,Oberoi Woods,35.0
+60000,4.0,Unfurnished,Bachelors/Family,7,3,Kolkata,Bengal Peerless Avidipta,17.0
+29000,3.0,Semi-Furnished,Bachelors/Family,20,3,Kolkata,Ambuja Utalika The Condoville,24.0
+50000,3.0,Semi-Furnished,Bachelors/Family,8,3,Kolkata,Udita Apartments,12.0
+40000,3.0,Furnished,Bachelors,7,3,Kolkata,Avidipta,27.0
+50000,3.0,Furnished,Bachelors/Family,6,3,Kolkata,Avidipta,17.0
+36000,2.0,Furnished,Bachelors/Family,14,2,Kolkata,Hiland Park,22.0
+20500,2.0,Semi-Furnished,Bachelors,8,3,Kolkata,Rajwada Springfield,10.0
+40000,2.0,Furnished,Bachelors,0,2,Kolkata,Upohar The Condoville,35.0
+45000,2.0,Semi-Furnished,Bachelors/Family,16,3,Kolkata,South City,35.0
+35000,2.0,Semi-Furnished,Family,8,3,Kolkata,Elita Garden Vista Phase 2,25.0
+23000,2.0,Semi-Furnished,Bachelors,1,2,Kolkata,Dakhini Phase 1,7.0
+22000,2.0,Furnished,Bachelors/Family,12,2,Kolkata,Avidipta,17.0
+69999,3.0,Semi-Furnished,Bachelors/Family,18,3,Kolkata,Bengal Peerless Avidipta Phase 2,46.0
+34000,2.0,Furnished,Bachelors/Family,10,2,Kolkata,Udita Apartments,18.0
+35000,2.0,Furnished,Bachelors/Family,13,2,Kolkata,Avidipta,18.0
+85000,3.0,Semi-Furnished,Bachelors/Family,27,3,Kolkata,Urbana NRI Complex,40.0
+25000,2.0,Unfurnished,Bachelors/Family,13,3,Kolkata,Shapoorji Pallonji Housing Complex,14.0
+75000,3.0,Semi-Furnished,Bachelors/Family,8,3,Kolkata,One Rajarhat,25.0
+14000,2.0,Semi-Furnished,Bachelors/Family,4,3,Kolkata,Rajarhat,4.0
+45000,3.0,Semi-Furnished,Bachelors,0,3,Kolkata,Ideal Villas,35.0
+90000,3.0,Semi-Furnished,Bachelors/Family,24,3,Kolkata,Urbana NRI Complex,35.0
+20000,2.0,Unfurnished,Bachelors/Family,1,3,Kolkata,Modern Park Santoshpur,3.0
+32000,2.0,Semi-Furnished,Family,0,2,Kolkata,Diamond City North,3.0
+6000,2.0,Unfurnished,Bachelors,0,2,Kolkata,Merlin Uttara,3.0
+11000,1.0,Unfurnished,Bachelors,1,2,Kolkata,Madhyamgram Kolkata,3.0
+40000,2.0,Unfurnished,Family,4,3,Kolkata,PS ONE10,20.0
+15000,2.0,Unfurnished,Bachelors/Family,2,2,Kolkata,Rabindrapally Kestopur,4.0
+30000,2.0,Semi-Furnished,Bachelors/Family,4,3,Kolkata,Jeet Sunshine,4.0
+10000,1.0,Unfurnished,Bachelors,0,2,Kolkata,Purbasha Apartment,4.0
+20000,2.0,Semi-Furnished,Bachelors/Family,3,2,Kolkata,Kolkata,4.0
+29000,3.0,Furnished,Family,7,3,Chennai,Kotturpuram,18.0
+60000,2.0,Furnished,Bachelors,14,3,Chennai,Anna Nagar,16.0
+15000,2.0,Semi-Furnished,Bachelors/Family,0,2,Chennai,Thanikachalam Nagar,11.0
+100000,3.0,Semi-Furnished,Bachelors/Family,3,3,Chennai,Luz,11.0
+110000,3.0,Unfurnished,Family,0,3,Chennai,East Coast Road Chennai,16.0
+100000,3.0,Semi-Furnished,Family,9,3,Chennai,Muthukadu,16.0
+45000,3.0,Furnished,Bachelors/Family,2,3,Chennai,Pammal,2.0
+60000,3.0,Unfurnished,Bachelors/Family,18,3,Chennai,Sholinganallur,22.0
+29000,3.0,Semi-Furnished,Family,3,3,Chennai,Kotturpuram,4.0
+7000,1.0,Unfurnished,Bachelors/Family,4,2,Chennai,Thazhambur,6.0
+11000,2.0,Unfurnished,Bachelors,2,2,Chennai,Kundrathur,3.0
+16000,2.0,Unfurnished,Bachelors/Family,1,2,Chennai,Kolathur,2.0
+75000,3.0,Unfurnished,Bachelors,1,3,Chennai,Anna Nagar,3.0
+37000,3.0,Semi-Furnished,Bachelors,1,3,Chennai,Mogappair Chennai,2.0
+27000,4.0,Semi-Furnished,Bachelors/Family,1,3,Chennai,Porur Chennai,2.0
+16000,2.0,Unfurnished,Bachelors,1,2,Chennai,Pattara Vakkam Chennai,2.0
+25000,3.0,Unfurnished,Bachelors,13,3,Chennai,Old Mahabalipuram Road Chennai,19.0
+20000,2.0,Unfurnished,Bachelors,0,2,Chennai,BB Road,4.0
+25000,3.0,Semi-Furnished,Bachelors,1,3,Chennai,New Perungalathur,4.0
+20000,2.0,Semi-Furnished,Bachelors/Family,0,2,Chennai,Pallikaranai Chennai,3.0
+40000,3.0,Furnished,Bachelors,2,3,Chennai,Sholinganallur,3.0
+50000,2.0,Unfurnished,Bachelors,3,3,Chennai,Besant Nagar,4.0
+17000,2.0,Semi-Furnished,Bachelors/Family,0,1,Chennai,Thoraipakkam Chennai,1.0
+110000,3.0,Semi-Furnished,Bachelors/Family,0,3,Chennai,Kanathur Chennai,1.0
+3500,1.0,Unfurnished,Bachelors/Family,1,1,Chennai,Poonamallee Avadi High Road Chennai,1.0
+60000,3.0,Unfurnished,Bachelors/Family,4,3,Chennai,Nandanam,16.0
+16000,1.0,Semi-Furnished,Bachelors/Family,1,1,Chennai,Ashok Nagar,2.0
+50000,3.0,Unfurnished,Bachelors,0,3,Chennai,Ashok Brindavan Chennai,16.0
+18500,2.0,Semi-Furnished,Family,0,2,Chennai,Jawahar Nagar Perambur Chennai,16.0
+29000,4.0,Furnished,Bachelors/Family,2,3,Chennai,East Coast Road,16.0
+15000,2.0,Unfurnished,Bachelors,4,3,Patna,Danapur Khagaul Road,4.0
+12000,1.0,Semi-Furnished,Bachelors,2,3,Patna,Mahesh Nagar,2.0
+10000,2.0,Unfurnished,Bachelors,3,3,Patna,Winsome Vatika,8.0
+10000,2.0,Furnished,Bachelors/Family,3,2,Patna,Mahavir Colony,3.0
+15000,2.0,Furnished,Bachelors/Family,0,2,Patna,Phulwari Sharif Patna,5.0
+22000,2.0,Unfurnished,Bachelors,5,3,Patna,Patna,5.0
+17000,2.0,Semi-Furnished,Bachelors,2,3,Patna,Kankarbagh,3.0
+21000,2.0,Furnished,Bachelors/Family,3,2,Patna,Mundeshwary Enclave,6.0
+16000,2.0,Semi-Furnished,Bachelors,4,3,Patna,Patna,5.0
+9000,1.0,Unfurnished,Bachelors,1,2,Patna,Hanuman Nagar Patna,3.0
+14500,2.0,Semi-Furnished,Bachelors/Family,0,2,Patna,Gardanibagh Patna,4.0
+29000,3.0,Semi-Furnished,Bachelors/Family,0,3,Patna,Rukanpura Patna,4.0
+15000,2.0,Semi-Furnished,Bachelors/Family,2,3,Patna,Jaganpura,4.0
+9500,2.0,Unfurnished,Bachelors,1,3,Patna,Beur Patna,4.0
+16700,2.0,Semi-Furnished,Bachelors/Family,1,2,Patna,Agam Kuan,4.0
+13000,2.0,Semi-Furnished,Bachelors/Family,0,2,Patna,Rajeev Nagar Patna,10.0
+32000,3.0,Furnished,Bachelors,0,3,Patna,Khagaul Road Patna,10.0
+35000,3.0,Semi-Furnished,Bachelors/Family,5,3,Patna,Danapur,10.0
+35000,2.0,Furnished,Bachelors,3,3,Patna,Fraser Road,4.0
+23000,2.0,Unfurnished,Bachelors,2,3,Patna,Saguna More,7.0
+8500,2.0,Unfurnished,Bachelors,1,2,Patna,Sai Enclave,10.0
+21000,2.0,Semi-Furnished,Bachelors,2,3,Patna,MEADOW GARDEN,5.0
+27000,3.0,Unfurnished,Bachelors/Family,1,3,Patna,Patliputra Colony Patna,2.0
+10000,1.0,Unfurnished,Bachelors/Family,2,2,Patna,Mithapur Patna,4.0
+20000,2.0,Unfurnished,Bachelors,0,3,Patna,Patna,3.0
+45000,3.0,Furnished,Bachelors/Family,0,3,Patna,New Patliputra Colony Patna,3.0
+14500,2.0,Semi-Furnished,Bachelors/Family,3,3,Patna,Phulwari Sharif,3.0
+17000,2.0,Unfurnished,Bachelors,3,3,Patna,Vanika Rupaspur,4.0
+15000,1.0,Semi-Furnished,Bachelors/Family,2,2,Patna,Mahendru Patna,3.0
+12000,1.0,Unfurnished,Bachelors/Family,2,2,Patna,Kankarbagh Patna,3.0
+20000,3.0,Furnished,Bachelors,0,3,Bhopal,Jatkhedi Bhopal,2.0
+20000,3.0,Semi-Furnished,Bachelors/Family,1,2,Bhopal,Sarv Dharam Society,2.0
+20000,2.0,Unfurnished,Bachelors/Family,1,2,Bhopal,Shahpura Bhopal,1.0
+17000,2.0,Semi-Furnished,Bachelors,6,2,Bhopal,Fortune Kasturi,6.0
+16000,3.0,Unfurnished,Bachelors,2,3,Bhopal,Shalimar Fortleza,2.0
+15000,2.0,Semi-Furnished,Bachelors/Family,1,2,Bhopal,Aakriti Eco City,1.0
+8000,2.0,Unfurnished,Bachelors,6,2,Bhopal,Swastik Paras Enclave,6.0
+21000,3.0,Unfurnished,Bachelors/Family,4,2,Bhopal,Green Acres,6.0
+15000,2.0,Unfurnished,Bachelors/Family,0,2,Bhopal,Salaiya Bhopal,5.0
+20000,3.0,Semi-Furnished,Bachelors/Family,0,3,Bhopal,ABDL Aashima Anupama City,5.0
+20000,3.0,Semi-Furnished,Bachelors,2,3,Bhopal,Misrod,5.0
+20000,4.0,Unfurnished,Bachelors/Family,0,3,Bhopal,asaga Bhopal,9.0
+14000,3.0,Unfurnished,Bachelors/Family,9,3,Bhopal,Prabhatam Heights,9.0
+25000,3.0,Semi-Furnished,Bachelors/Family,0,3,Bhopal,Bawadiya Kalan Bhopal,2.0
+12000,1.0,Unfurnished,Bachelors,1,2,Bhopal,Nayapura Lalghati Bhopal,2.0
+10000,2.0,Unfurnished,Bachelors/Family,4,2,Bhopal,RRG Township,6.0
+22000,3.0,Semi-Furnished,Bachelors,9,3,Bhopal,Swapnil Shiv Enclave,10.0
+11000,2.0,Semi-Furnished,Bachelors/Family,2,2,Bhopal,Sagar Abhinav Heights,6.0
+25000,3.0,Unfurnished,Bachelors,0,3,Bhopal,Chuna Bhatti Bhopal,2.0
+30000,3.0,Unfurnished,Bachelors,1,3,Bhopal,comfort palm,2.0
+27000,2.0,Furnished,Bachelors,4,3,Bhopal,Harshit Lifestyle,6.0
+37000,3.0,Semi-Furnished,Bachelors/Family,9,3,Bhopal,Keelandev Tower,10.0
+28000,2.0,Unfurnished,Bachelors,1,2,Bhopal,Abhiruchi Parisar Bhopal,2.0
+24000,3.0,Furnished,Family,5,3,Bhopal,Hoshangabad Road,6.0
+20000,2.0,Furnished,Bachelors/Family,0,2,Bhopal,Agrawal Sagar Lakeview Homes,5.0
+21000,2.0,Semi-Furnished,Bachelors/Family,0,3,Bhopal,ABDL Paradise,5.0
+14000,2.0,Unfurnished,Bachelors,1,3,Bhopal,Agrawal Sagar Landmark,5.0
+25000,3.0,Furnished,Family,2,3,Bhopal,comfort palm,2.0
+16000,2.0,Semi-Furnished,Family,2,2,Bhopal,Bawadiya Kalan,3.0
+14500,2.0,Furnished,Bachelors/Family,2,2,Bhopal,Bhopal,6.0
+36000,2.0,Furnished,Family,3,2,Pune,Sai Royale,12.0
+17000,1.0,Semi-Furnished,Bachelors,12,1,Pune,Kolte Patil Life Republic,22.0
+17000,2.0,Unfurnished,Bachelors/Family,13,1,Pune,Kolte Patil Life Republic,21.0
+38000,2.0,Furnished,Bachelors/Family,2,2,Pune,Camelot Royale,5.0
+30000,3.0,Semi-Furnished,Bachelors/Family,4,3,Pune,Mont Vert Belair,12.0
+29000,3.0,Unfurnished,Bachelors/Family,5,3,Pune,Kolte Patil Life Republic,22.0
+22000,2.0,Semi-Furnished,Bachelors/Family,22,1,Pune,Paranjape Blue Ridge,30.0
+40000,2.0,Furnished,Bachelors/Family,5,2,Pune,Neco Garden,7.0
+23000,2.0,Unfurnished,Family,2,2,Pune,Rohan Ananta,12.0
+45000,3.0,Semi-Furnished,Bachelors/Family,11,3,Pune,Mango One,12.0
+27000,3.0,Semi-Furnished,Family,16,3,Pune,Magarpatta Nanded City Sargam,31.0
+75000,3.0,Semi-Furnished,Bachelors,5,3,Pune,Leela Garden,9.0
+42000,3.0,Furnished,Family,5,3,Pune,Kolte-Patil 24k Glamore,11.0
+65000,3.0,Unfurnished,Bachelors/Family,12,3,Pune,Kalpataru Jade Residences,21.0
+22000,2.0,Semi-Furnished,Bachelors/Family,12,2,Pune,Kolte Patil Life Republic,22.0
+27000,2.0,Semi-Furnished,Bachelors/Family,1,2,Pune,Venkatesh Graffiti Phase 3 Phase 4 Phase 5,14.0
+34000,3.0,Semi-Furnished,Bachelors,7,3,Pune,Mont Vert Seville,12.0
+21000,1.0,Semi-Furnished,Bachelors/Family,0,1,Pune,Blueridge slim fit and NGA Towers,14.0
+24000,2.0,Unfurnished,Bachelors/Family,8,2,Pune,Megapolis Saffron,14.0
+55000,3.0,Furnished,Family,3,3,Pune,Ashok Meadows,7.0
+60000,2.0,Unfurnished,Bachelors,3,3,Pune,Prabhat,3.0
+45000,3.0,Unfurnished,Family,4,3,Pune,Pride Valencia,10.0
+22000,1.0,Unfurnished,Bachelors/Family,5,1,Pune,Paranjape Blueridge The Groves,13.0
+26000,1.0,Furnished,Bachelors/Family,9,1,Pune,Paranjape Blueridge The Groves,13.0
+55000,2.0,Unfurnished,Bachelors,6,3,Pune,Gera World of Joy,14.0
+34000,2.0,Semi-Furnished,Bachelors/Family,4,2,Pune,Dynasty,12.0
+12000,2.0,Unfurnished,Bachelors,4,2,Pune,Saptarang Aakash,5.0
+28500,2.0,Unfurnished,Family,12,2,Pune,Venkatesh Graffiti Glover,15.0
+25000,2.0,Unfurnished,Family,19,2,Pune,Joyville Hadapsar Annexe,22.0
+45000,3.0,Semi-Furnished,Bachelors/Family,9,3,Pune,Gera World of Joy,12.0
+18000,2.0,Semi-Furnished,Bachelors/Family,0,2,Lucknow,Sushant Golf City Lucknow,2.0
+20000,3.0,Unfurnished,Bachelors/Family,1,3,Lucknow,Gomti Nagar Lucknow,2.0
+24000,2.0,Semi-Furnished,Family,6,3,Lucknow,Azea Botanica,14.0
+20000,2.0,Unfurnished,Family,0,3,Lucknow,Sector 5 Vrindavan Colony Lucknow,1.0
+16000,2.0,Unfurnished,Bachelors,1,2,Lucknow,Panchvati Colony Lucknow,1.0
+15000,2.0,Unfurnished,Bachelors/Family,1,2,Lucknow,Omaxe City,2.0
+11500,1.0,Semi-Furnished,Bachelors/Family,0,2,Lucknow,Omaxe City,2.0
+16000,2.0,Unfurnished,Bachelors/Family,1,2,Lucknow,J214 souh city Raibareli road Lucknow Lucknow,2.0
+12000,2.0,Furnished,Bachelors,8,2,Lucknow,Kiara Residency,13.0
+15000,1.0,Unfurnished,Bachelors,1,2,Lucknow,Shivajipuram,1.0
+8000,1.0,Semi-Furnished,Bachelors,1,1,Lucknow,Sector 11 Indira Nagar,3.0
+15000,1.0,Unfurnished,Bachelors,1,1,Lucknow,Gomti Nagar Lucknow,3.0
+16500,2.0,Semi-Furnished,Bachelors/Family,0,2,Lucknow,Viram Khand-3 Lucknow,1.0
+40000,3.0,Semi-Furnished,Bachelors,1,3,Lucknow,Vishwas Khand Lucknow,1.0
+15000,2.0,Unfurnished,Family,4,2,Lucknow,Diamond Height,5.0
+9000,2.0,Unfurnished,Bachelors,0,2,Lucknow,Kursi Road Lucknow,1.0
+12000,1.0,Furnished,Bachelors/Family,1,2,Lucknow,Mubarakpur,1.0
+8000,1.0,Unfurnished,Family,0,2,Lucknow,Singarnagar Lucknow,1.0
+18000,2.0,Semi-Furnished,Bachelors,0,2,Lucknow,ground floor of home Lucknow,1.0
+15000,2.0,Semi-Furnished,Family,0,2,Lucknow,Mayur Residency,1.0
+20000,3.0,Semi-Furnished,Bachelors,0,2,Lucknow,Ruchi Khand 2 Lucknow,1.0
+15000,2.0,Unfurnished,Bachelors,1,3,Lucknow,Vikas Nagar Lucknow,1.0
+18000,2.0,Unfurnished,Bachelors,1,2,Lucknow,Hardoi,2.0
+30000,3.0,Unfurnished,Bachelors/Family,0,3,Lucknow,Vivek Khand - 2 Lucknow,11.0
+60000,4.0,Semi-Furnished,Bachelors/Family,0,3,Lucknow,Gokhale marg Lucknow,11.0
+24500,2.0,Furnished,Bachelors/Family,0,2,Lucknow,Kursi Road Lucknow,11.0
+10000,2.0,Unfurnished,Bachelors,0,2,Lucknow,Omaxe City,11.0
+22000,2.0,Semi-Furnished,Bachelors,2,3,Lucknow,RG Europhia,11.0
+25000,3.0,Semi-Furnished,Bachelors,0,3,Lucknow,Eldeco Udyan II Lucknow,1.0
+13000,2.0,Furnished,Family,1,2,Lucknow,Kursi Road Lucknow,1.0
+55000,2.0,Unfurnished,Bachelors/Family,0,2,Goa,Siolim,1.0
+30000,2.0,Unfurnished,Bachelors,1,3,Goa,Ponda Goa,1.0
+55000,3.0,Semi-Furnished,Bachelors,0,3,Goa,Miramar,8.0
+55000,3.0,Unfurnished,Bachelors/Family,0,3,Goa,Aradi Socorro Goa,8.0
+82000,3.0,Unfurnished,Bachelors/Family,0,3,Goa,Panaji Goa,8.0
+20000,2.0,Semi-Furnished,Bachelors/Family,7,1,Goa,Goa,8.0
+30000,3.0,Furnished,Bachelors/Family,5,3,Goa,Goa,7.0
+55000,2.0,Furnished,Bachelors/Family,8,2,Goa,Tata Goa Paradise,8.0
+52000,1.0,Unfurnished,Bachelors/Family,4,1,Goa,Botanica,5.0
+29000,2.0,Furnished,Bachelors/Family,1,2,Goa,Mapusa,2.0
+50000,2.0,Furnished,Bachelors/Family,4,2,Goa,Zion Square,5.0
+85000,2.0,Furnished,Bachelors/Family,2,2,Goa,Siolim,2.0
+48000,2.0,Unfurnished,Family,2,3,Goa,Miramar,8.0
+45000,2.0,Furnished,Bachelors/Family,0,2,Goa,Kadamba Plateau Goa,5.0
+50000,3.0,Semi-Furnished,Family,2,3,Goa,Miramar,5.0
+100000,3.0,Furnished,Bachelors/Family,0,3,Goa,Dona Paula,8.0
+47000,2.0,Unfurnished,Bachelors,4,2,Goa,Gera Astoria,8.0
+20000,1.0,Furnished,Bachelors/Family,4,1,Goa,Santainez,5.0
+52000,2.0,Furnished,Family,2,2,Goa,Models Avalon,2.0
+29000,4.0,Furnished,Bachelors/Family,0,3,Goa,Nerul Goa,3.0
+45000,3.0,Unfurnished,Bachelors,1,2,Goa,Altinho,3.0
+80000,4.0,Furnished,Family,0,3,Goa,Curtorim Goa,8.0
+65000,3.0,Unfurnished,Bachelors,2,3,Goa,Sterling Residencies,8.0
+42000,2.0,Unfurnished,Bachelors/Family,8,2,Goa,Miramar,8.0
+25000,1.0,Unfurnished,Bachelors,1,1,Goa,Anjuna Goa,1.0
+40000,1.0,Furnished,Bachelors,0,1,Goa,Acron Villa Tina,6.0
+30000,2.0,Furnished,Family,1,2,Goa,Kamat Exotic Palms,6.0
+10000,1.0,Semi-Furnished,Bachelors/Family,2,1,Goa,Verna,4.0
+32000,2.0,Furnished,Bachelors/Family,1,3,Goa,Ponda Goa,1.0
+26000,1.0,Semi-Furnished,Bachelors,2,1,Goa,Siolim,2.0
+25000,2.0,Furnished,Bachelors,1,2,Jaipur,Vaishali Nagar,3.0
+35000,3.0,Semi-Furnished,Bachelors,4,3,Jaipur,Jawahar Circle,8.0
+95000,4.0,Furnished,Bachelors,5,3,Jaipur,The Crest,15.0
+25000,4.0,Semi-Furnished,Family,12,3,Jaipur,Ashiana Amantran,14.0
+18000,1.0,Furnished,Bachelors,2,1,Jaipur,Raja Park,5.0
+6500,1.0,Semi-Furnished,Bachelors/Family,1,1,Jaipur,RHB All India Services Residency,1.0
+25000,2.0,Unfurnished,Bachelors/Family,1,2,Jaipur,Tilak Nagar,2.0
+30000,2.0,Semi-Furnished,Family,0,2,Jaipur,Shyam Nagar Jaipur,6.0
+38000,3.0,Furnished,Bachelors/Family,6,3,Jaipur,Siddharth Nagar Jagatpura,6.0
+15000,2.0,Semi-Furnished,Bachelors/Family,0,2,Jaipur,Jagatpura Jaipur,12.0
+27000,3.0,Semi-Furnished,Bachelors/Family,0,3,Jaipur,Kedias THE KOTHI,12.0
+50000,4.0,Semi-Furnished,Bachelors/Family,11,3,Jaipur,RHB All India Services Residency,12.0
+23000,2.0,Furnished,Family,1,2,Jaipur,Anita Colony,3.0
+30000,3.0,Furnished,Bachelors/Family,6,3,Jaipur,Mahima Panache,12.0
+26500,3.0,Semi-Furnished,Family,12,3,Jaipur,Taruchaya Residency,14.0
+15500,2.0,Semi-Furnished,Bachelors/Family,1,2,Jaipur,Prithviraj Nagar,2.0
+12000,2.0,Unfurnished,Bachelors,1,2,Jaipur,Patrakar Colony Mansarovar Jaipur,2.0
+15000,3.0,Unfurnished,Bachelors/Family,0,3,Jaipur,Amrapali Villas,2.0
+17000,2.0,Unfurnished,Bachelors,0,2,Jaipur,Ranisati Nagar Jaipur,2.0
+30000,3.0,Semi-Furnished,Bachelors/Family,0,3,Jaipur,Sirsi Road Jaipur,2.0
+6000,2.0,Semi-Furnished,Bachelors/Family,0,2,Jaipur,ARG Puram,2.0
+15000,2.0,Semi-Furnished,Bachelors/Family,1,2,Jaipur,Indira Gandhi Nagar Jaipur,2.0
+50000,3.0,Unfurnished,Bachelors/Family,0,3,Jaipur,Vaishali Nagar Jaipur,2.0
+20000,1.0,Unfurnished,Bachelors,1,1,Jaipur,Sahakar Marg Jaipur,2.0
+20000,2.0,Semi-Furnished,Bachelors/Family,7,3,Jaipur,Ashadeep Green Avenue,9.0
+40000,4.0,Furnished,Bachelors/Family,0,3,Jaipur,Amarpali Jaipur,3.0
+13000,2.0,Unfurnished,Bachelors/Family,1,2,Jaipur,Chitrakoot Scheme,3.0
+20000,3.0,Semi-Furnished,Bachelors,3,3,Jaipur,Officers Campus Extension,4.0
+55000,3.0,Furnished,Bachelors,4,3,Jaipur,Jaipur,11.0
+85000,3.0,Furnished,Family,6,3,Jaipur,The Crest,12.0
+10000,2.0,Unfurnished,Bachelors/Family,0,2,Pondicherry,Mudaliarpet Pondicherry,2.0
+12000,2.0,Unfurnished,Bachelors/Family,0,2,Pondicherry,Karaikal Pondicherry,2.0
+20000,2.0,Unfurnished,Family,1,3,Pondicherry,White Town Pondicherry,2.0
+20000,2.0,Furnished,Bachelors,0,2,Pondicherry,Thavalakuppam Pondicherry,3.0
+30000,3.0,Furnished,Family,1,3,Pondicherry,Heritage Town,3.0
+10000,1.0,Semi-Furnished,Bachelors/Family,0,3,Pondicherry,Villiyanur,3.0
+12500,2.0,Unfurnished,Bachelors/Family,1,2,Pondicherry,Moolakulam,3.0
+12000,1.0,Semi-Furnished,Bachelors/Family,0,2,Pondicherry,Reddiarpalayam Pondicherry,1.0
+8500,2.0,Unfurnished,Bachelors/Family,1,2,Pondicherry,Thavalakuppam Pondicherry,1.0
+20000,2.0,Semi-Furnished,Bachelors/Family,1,2,Pondicherry,Muthialpet,1.0
+18000,3.0,Unfurnished,Bachelors,1,2,Pondicherry,Lawspet Pondicherry,2.0
+5000,1.0,Unfurnished,Bachelors,0,1,Pondicherry,Karikalampakkam Pondicherry,2.0
+7800,1.0,Unfurnished,Bachelors/Family,0,1,Pondicherry,Kottakuppam Pondicherry,2.0
+8000,2.0,Semi-Furnished,Bachelors,2,2,Pondicherry,Oulgaret Pondicherry,2.0
+12000,2.0,Unfurnished,Bachelors/Family,0,3,Pondicherry,Kamban Nagar,4.0
+16000,1.0,Unfurnished,Bachelors,0,3,Pondicherry,Kamaraj Nagar Pondicherry,4.0
+25000,5.0,Furnished,Bachelors/Family,2,2,Pondicherry,Natesan Nagar,4.0
+10000,2.0,Unfurnished,Bachelors/Family,0,2,Pondicherry,Brindavanam Pondicherry,1.0
+13000,1.0,Unfurnished,Bachelors/Family,0,1,Pondicherry,Lawspet Pondicherry,1.0
+20000,2.0,Semi-Furnished,Bachelors/Family,0,2,Pondicherry,Saram Pondicherry,1.0
+25000,3.0,Unfurnished,Bachelors,0,3,Pondicherry,Auroville Pondicherry,1.0
+15000,3.0,Semi-Furnished,Bachelors/Family,0,2,Pondicherry,Shanmugapuram Pondicherry,1.0
+12000,2.0,Unfurnished,Bachelors,0,2,Pondicherry,Nainar Mandapam Pondicherry,1.0
+27000,3.0,Furnished,Bachelors/Family,0,3,Pondicherry,Thavalakuppam Pondicherry,1.0
+12500,2.0,Unfurnished,Bachelors,1,2,Pondicherry,Kottakuppam,1.0
+10000,,,Bachelors/Family,0,2,Pondicherry,Thavalakuppam Pondicherry,2.0
+9000,1.0,Unfurnished,Family,0,2,Pondicherry,Teachers colony Pondicherry,2.0
+9000,2.0,Semi-Furnished,Bachelors/Family,0,1,Pondicherry,Rainbow Nagar Pondicherry,2.0
+15000,2.0,Unfurnished,Family,1,3,Pondicherry,Victoria nagar Pondicherry,2.0
+8500,2.0,Unfurnished,Bachelors/Family,1,2,Pondicherry,Ellaipillaichavady Pondicherry,2.0
+25000,2.0,Semi-Furnished,Bachelors/Family,4,3,Shimla,Phagli,5.0
+56000,2.0,Furnished,Bachelors,2,2,Shimla,Bharari Road,4.0
+19000,2.0,Semi-Furnished,Bachelors/Family,1,3,Shimla,Bhattakufer,4.0
+18000,2.0,Unfurnished,Bachelors,3,2,Shimla,Malyana,4.0
+15000,1.0,Furnished,Bachelors/Family,2,2,Shimla,Khalini,4.0
+15000,2.0,Semi-Furnished,Bachelors,3,3,Shimla,Vikasnagar,7.0
+8000,1.0,Unfurnished,Bachelors,1,1,Shimla,Mehli,2.0
+8000,1.0,Furnished,Bachelors/Family,0,1,Shimla,Sanjauli Shimla,3.0
+8000,1.0,Unfurnished,Bachelors,0,2,Shimla,Dudhli Shimla,3.0
+33000,2.0,Furnished,Bachelors/Family,0,3,Shimla,Chaura Maidan,3.0
+15000,1.0,Semi-Furnished,Bachelors/Family,0,1,Shimla,Shankli Shimla,3.0
+21000,1.0,Furnished,Bachelors,2,1,Shimla,Himuda Flats,3.0
+12000,1.0,Semi-Furnished,Bachelors/Family,0,1,Shimla,Jakhu Shimla,5.0
+15000,2.0,Semi-Furnished,Bachelors/Family,2,3,Shimla,Shimla,5.0
+16000,2.0,Semi-Furnished,Family,1,3,Shimla,New Shimla Shimla,3.0
+6500,1.0,Semi-Furnished,Bachelors/Family,1,1,Shimla,Vikasnagar,4.0
+25000,2.0,Semi-Furnished,Bachelors/Family,1,2,Shimla,Khalini,4.0
+12000,1.0,Semi-Furnished,Bachelors/Family,2,1,Shimla,Mehli Shimla,5.0
+18000,2.0,Furnished,Bachelors/Family,0,2,Shimla,Jakhu,4.0
+20000,2.0,Semi-Furnished,Bachelors/Family,1,3,Shimla,Chotta Shimla Shimla,4.0
+19000,2.0,Semi-Furnished,Bachelors,2,3,Shimla,Sanjauli Shimla,4.0
+15000,2.0,Semi-Furnished,Bachelors/Family,0,3,Shimla,Bharari,2.0
+20000,2.0,Semi-Furnished,Bachelors/Family,0,3,Shimla,Kaithu Shimla,2.0
+12000,2.0,Furnished,Bachelors/Family,0,2,Shimla,Bhattakufer,2.0
+75000,2.0,Furnished,Bachelors/Family,2,2,Shimla,Mall Road,2.0
+16000,2.0,Furnished,Bachelors/Family,0,2,Shimla,Dhalli,4.0
+10000,1.0,Semi-Furnished,Bachelors/Family,2,2,Shimla,Panthaghati Shimla,4.0
+40000,2.0,Semi-Furnished,Bachelors/Family,1,2,Shimla,"""Saint Bedes College""",3.0
+10000,1.0,Semi-Furnished,Bachelors/Family,1,2,Shimla,Kanlog,2.0
+17000,1.0,Furnished,Bachelors/Family,2,2,Shimla,Kaithu,4.0
+80000,3.0,Unfurnished,Bachelors/Family,16,3,Gurgaon,Ireo Victory Valley,40.0
+75000,5.0,Semi-Furnished,Bachelors/Family,9,3,Gurgaon,Malibu Town,14.0
+29000,3.0,Unfurnished,Family,5,3,Gurgaon,M3M Golf Estate,20.0
+52000,2.0,Semi-Furnished,Bachelors,9,3,Gurgaon,Unitech Fresco,18.0
+29000,3.0,Semi-Furnished,Bachelors,8,3,Gurgaon,M3M Golf Estate,18.0
+45000,3.0,Furnished,Bachelors/Family,2,3,Gurgaon,All Punjabi Welfare Association,4.0
+51000,3.0,Unfurnished,Bachelors,8,3,Gurgaon,Dhoot Time Residency,15.0
+69000,3.0,Semi-Furnished,Bachelors/Family,6,3,Gurgaon,Emaar The Palm Drive,16.0
+58000,2.0,Semi-Furnished,Family,2,2,Gurgaon,IREO Skyon,12.0
+85000,4.0,Semi-Furnished,Family,1,3,Gurgaon,Sushant Lok-I,4.0
+110000,3.0,Semi-Furnished,Bachelors/Family,7,3,Gurgaon,Central Park Resorts Sky Villas,17.0
+95000,1.0,Furnished,Bachelors/Family,1,1,Gurgaon,Sweta Central Park 2,18.0
+29000,4.0,Semi-Furnished,Family,10,3,Gurgaon,DLF Crest,30.0
+38000,3.0,Semi-Furnished,Family,5,3,Gurgaon,Emaar Palm Gardens,15.0
+29000,4.0,Semi-Furnished,Family,9,3,Gurgaon,Sector 54,35.0
+29000,3.0,Unfurnished,Family,10,3,Gurgaon,DLF Park Place,30.0
+88000,3.0,Semi-Furnished,Bachelors/Family,1,3,Gurgaon,Sushant Lok-I,4.0
+29000,3.0,Semi-Furnished,Bachelors,10,3,Gurgaon,DLF Park Place,30.0
+70000,2.0,Semi-Furnished,Family,20,2,Gurgaon,Emaar Digi Homes,29.0
+40000,3.0,Semi-Furnished,Family,6,3,Gurgaon,Umang Winter Hills,18.0
+58000,3.0,Unfurnished,Bachelors,4,3,Gurgaon,Vipul Greens,14.0
+29000,3.0,Semi-Furnished,Bachelors/Family,9,3,Gurgaon,Parsvnath Exotica Phase 2,18.0
+45000,2.0,Furnished,Bachelors/Family,0,2,Gurgaon,Sushant Lok Builder Floors,15.0
+29000,4.0,Semi-Furnished,Bachelors/Family,8,3,Gurgaon,M3M Golf Estate,15.0
+60000,2.0,Semi-Furnished,Bachelors/Family,11,2,Gurgaon,M3M Skycity,38.0
+31000,3.0,Semi-Furnished,Bachelors/Family,10,3,Gurgaon,Umang Winter Hills,18.0
+60000,3.0,Semi-Furnished,Family,2,3,Gurgaon,Unitech Woodstock Floors,3.0
+50000,2.0,Semi-Furnished,Bachelors/Family,17,2,Gurgaon,M3M Heights,38.0
+70000,3.0,Semi-Furnished,Bachelors/Family,1,3,Gurgaon,DLF Exclusive Floors,3.0
+65000,3.0,Semi-Furnished,Bachelors/Family,8,3,Gurgaon,Bellevue Central Park 2,16.0
+41000,3.0,Furnished,Family,4,3,Gandhinagar,Mahalaxmi Royal,7.0
+45000,2.0,Furnished,Bachelors/Family,4,2,Gandhinagar,Sangath IPL Smart Residency,22.0
+23000,2.0,Furnished,Family,2,2,Gandhinagar,Rudra Aniket Regime,7.0
+35000,3.0,Furnished,Bachelors/Family,5,3,Gandhinagar,Gandhinagar,8.0
+21999,3.0,Furnished,Family,4,3,Gandhinagar,Vedika Habitat,8.0
+24000,2.0,Furnished,Family,1,2,Gandhinagar,balmukand heights,7.0
+25000,3.0,Semi-Furnished,Family,6,3,Gandhinagar,Sargasan,14.0
+16500,2.0,Semi-Furnished,Bachelors/Family,4,2,Gandhinagar,Shrifal Heights,7.0
+45000,2.0,Furnished,Family,10,2,Gandhinagar,Sangath IPL Smart Residency,10.0
+20000,2.0,Semi-Furnished,Family,12,2,Gandhinagar,Randesan,14.0
+25000,2.0,Furnished,Family,4,2,Gandhinagar,Shrifal Heights,8.0
+18500,3.0,Semi-Furnished,Bachelors,2,3,Gandhinagar,Sarthak Sarjak,7.0
+30000,3.0,Semi-Furnished,Bachelors,0,3,Gandhinagar,Capital Crown,8.0
+18500,2.0,Furnished,Family,6,2,Gandhinagar,Radhe Empire,8.0
+24000,2.0,Unfurnished,Bachelors,3,2,Gandhinagar,Maruti Aamrakunj,8.0
+30000,3.0,Furnished,Bachelors,8,3,Gandhinagar,Kudasan,8.0
+24000,3.0,Semi-Furnished,Bachelors/Family,5,3,Gandhinagar,Aamrakunj 2,9.0
+18000,2.0,Semi-Furnished,Bachelors/Family,5,2,Gandhinagar,Sargasan,10.0
+50000,2.0,Furnished,Bachelors/Family,0,3,Gandhinagar,Kudasan Gandhinagar,7.0
+26000,3.0,Unfurnished,Bachelors/Family,6,3,Gandhinagar,Kudasan,7.0
+25000,2.0,Furnished,Bachelors,12,2,Gandhinagar,Capital Crown,14.0
+28000,3.0,Semi-Furnished,Family,4,3,Gandhinagar,Keshav Aaradhyam,8.0
+38000,3.0,Furnished,Bachelors,6,3,Gandhinagar,Shukan Silver,8.0
+32000,3.0,Semi-Furnished,Family,3,3,Gandhinagar,Sanskruti,13.0
+16000,2.0,Semi-Furnished,Family,1,2,Gandhinagar,Capital Crown,14.0
+25000,3.0,Furnished,Bachelors,1,3,Gandhinagar,Swagat Flamingo,5.0
+21000,3.0,Unfurnished,Bachelors,3,3,Gandhinagar,Woods Ville,9.0
+27500,3.0,Semi-Furnished,Bachelors,5,3,Gandhinagar,Keshav Aaradhyam,8.0
+21000,3.0,Semi-Furnished,Bachelors,4,3,Gandhinagar,Gandhinagar,12.0
+23000,2.0,Furnished,Family,3,2,Gandhinagar,Randesan,5.0
+20000,2.0,Semi-Furnished,Bachelors/Family,0,2,Dehradun,INDRA NAGAR,7.0
+35000,3.0,Furnished,Bachelors/Family,0,2,Dehradun,Bidholi Dehradun,7.0
+29000,3.0,Unfurnished,Bachelors/Family,4,3,Dehradun,Mussoorie Road,7.0
+65000,3.0,Furnished,Bachelors/Family,3,3,Dehradun,Jakhan,3.0
+22000,2.0,Semi-Furnished,Family,6,3,Dehradun,Kimaya Greens,8.0
+25000,2.0,Unfurnished,Bachelors,2,2,Dehradun,Sahastradhara Road,3.0
+25000,2.0,Furnished,Bachelors/Family,1,2,Dehradun,Sahastradhara Road,4.0
+28000,3.0,Semi-Furnished,Bachelors/Family,1,3,Dehradun,Canal Road,3.0
+22000,1.0,Furnished,Bachelors/Family,5,1,Dehradun,Dehradun,8.0
+22000,1.0,Furnished,Bachelors/Family,5,1,Dehradun,Eminent Heights,7.0
+40000,2.0,Furnished,Bachelors,6,2,Dehradun,Pacific Golf Estate,9.0
+12000,2.0,Semi-Furnished,Bachelors/Family,0,2,Dehradun,Windlass River Valley,6.0
+24000,2.0,Furnished,Bachelors/Family,5,2,Dehradun,Mega County,6.0
+30000,3.0,Unfurnished,Bachelors/Family,0,3,Dehradun,Panache Valley,2.0
+15000,1.0,Unfurnished,Bachelors,1,1,Dehradun,Dehradun,2.0
+20000,3.0,Semi-Furnished,Family,3,3,Dehradun,Green View Blossom,6.0
+25000,2.0,Semi-Furnished,Family,0,2,Dehradun,Balbir Road Dehradun,3.0
+20000,2.0,Unfurnished,Bachelors,2,2,Dehradun,Aman Vihar,3.0
+22000,2.0,Semi-Furnished,Bachelors,0,3,Dehradun,Rajeshwar Nagar Phase 2 Dehradun,7.0
+25000,3.0,Unfurnished,Bachelors/Family,3,3,Dehradun,HIG ISBT,7.0
+35000,3.0,Unfurnished,Bachelors,4,3,Dehradun,Kishanpur,4.0
+22000,2.0,Furnished,Bachelors/Family,0,2,Dehradun,MDDA Colony Dehradun,2.0
+15000,2.0,Unfurnished,Bachelors,1,2,Dehradun,Dehradun,2.0
+18000,2.0,Unfurnished,Family,2,2,Dehradun,Sahastradhara Road Dehradun,2.0
+24000,2.0,Furnished,Bachelors/Family,0,2,Dehradun,Badripur Dehradun,6.0
+16000,2.0,Semi-Furnished,Bachelors,1,2,Dehradun,Windlass River Valley,6.0
+18000,3.0,Semi-Furnished,Bachelors,0,2,Dehradun,Shewla Kalan Dehradun,4.0
+25000,2.0,Semi-Furnished,Family,3,3,Dehradun,Kaushalya Tower,4.0
+20000,2.0,Furnished,Bachelors,0,2,Dehradun,Raipur Dehradun,3.0
+25000,3.0,Semi-Furnished,Bachelors/Family,1,3,Dehradun,Doon Vihar,3.0
